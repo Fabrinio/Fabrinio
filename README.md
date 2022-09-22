@@ -1,4 +1,4 @@
- ## Coe mano, beleza? Sou o Lucas Fabrinio
+ ## Coe mano, beleza? Sou o Lucas Fabrinio!!
 
 - 🌱 Fazendo faculdade de TIC e Cursando Desenvolvimento Full Stack Serratec
 
@@ -15,6 +15,7 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"> 
+  <img align="right" alt="shaw" height="120" width="120" src="https://cdn.discordapp.com/attachments/992951514320609381/1022505870422188162/c15060e6b11414c9e51ff6dee5b84c70.jpg">
 </div>
 
  ##
