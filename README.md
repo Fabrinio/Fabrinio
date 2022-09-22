@@ -28,5 +28,5 @@
 
  #
  <div>
-  <img align="center" alt="gif" height="400" width="400" src="https://media2.giphy.com/media/LWocZxVYEzl8Y3LWIZ/giphy.gif?cid=ecf05e47nni8kf5jipjb2d301ns1wybutgqyrg1r9j0j6swk&rid=giphy.gif&ct=g">
+  <img  alt="gif" height="400" width="1050" src="https://media2.giphy.com/media/LWocZxVYEzl8Y3LWIZ/giphy.gif?cid=ecf05e47nni8kf5jipjb2d301ns1wybutgqyrg1r9j0j6swk&rid=giphy.gif&ct=g">
  </div>
