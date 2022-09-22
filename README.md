@@ -2,7 +2,7 @@
 
 - 🌱 Fazendo faculdade de TIC e Cursando Desenvolvimento Full Stack Serratec
 
-<div>
+<div align="center">
   <a href="https://github.com/Fabrinio">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fabrinio&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabrinio&layout=compact&langs_count=7&theme=radical"/>
@@ -24,8 +24,9 @@
    <a href="https://instagram.com/lucasfabrin" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href = "mailto:itsfabrinio@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="https://www.linkedin.com/in/lucas-fabrinio-ba1916238" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-    ![Snake animation](https://github.com/Fabrinio/Fabrinio/blob/output/github-contribution-grid-snake.svg)
-  
  </div>
 
+ #
+ <div>
+  <img align="center" alt="gif" height="400" width="400" src="https://media2.giphy.com/media/LWocZxVYEzl8Y3LWIZ/giphy.gif?cid=ecf05e47nni8kf5jipjb2d301ns1wybutgqyrg1r9j0j6swk&rid=giphy.gif&ct=g">
+ </div>
