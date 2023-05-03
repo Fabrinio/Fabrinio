@@ -2,7 +2,6 @@
 
 - 🌱 Fazendo faculdade de TIC
 - 🎓 Desenvolvedor Full Stack pelo Serratec
-- 👨🏻‍💼 Trainee como Desenvolvedor de Software na Neki
 
 <div align="center">
   <a href="https://github.com/Fabrinio">
